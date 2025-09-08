@@ -1,0 +1,6 @@
+{
+  "name": "@study/widgets",
+  "version": "0.0.1",
+  "type": "module",
+  "peerDependencies": { "react": "^18.0.0" }
+}
